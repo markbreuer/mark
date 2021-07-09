@@ -1,0 +1,93 @@
+
+body {
+margin: 0;
+font-family: verdana, sans-serif;
+}
+
+.top-container {
+
+background-color: #E8F6EF;
+height: 40px;
+
+}
+
+.middle-container {
+  text-align: center;
+  background-color: #E8F6EF;
+  height: 650px;
+  position: relative;
+  padding-top: 100px;
+}
+
+.bottom-container {
+  text-align: center;
+  background-color: #E8F6EF;
+  height: 650px;
+  position: relative;
+  padding-top: 100px;
+}
+
+h1
+{
+margin-top: 0;
+font-weight:normal;
+font-family: 'Zen Tokyo Zoo', cursive;
+font-size: 72px;
+}
+
+h2
+{
+margin-top: 0;
+  font-weight:normal;
+  font-family: 'Zen Tokyo Zoo', cursive;
+  font-size: 48px;
+}
+
+
+.top_teddy{
+  height: 30%;
+  width: 15%;
+  position: absolute;
+  top: 75px;
+  left: 200px;
+
+}
+
+.top_ball{
+
+height: 30%;
+width: 15%;
+position: absolute;
+top: 75px;
+right: 200px;
+
+}
+
+.bottom_fish{
+  height: 30%;
+  width: 15%;
+  position: absolute;
+  bottom: 200px;
+  left: 600px;
+
+
+}
+
+
+.about{
+text-align: justify;
+  left: 300px;
+  right: 300px;
+  position: absolute;
+}
+
+
+.profile_pic{
+height: 30%;
+width: 15%;
+position: absolute;
+bottom: 200px;
+left: 600px;
+
+
+}
